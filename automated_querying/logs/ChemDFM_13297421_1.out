@@ -1,0 +1,12 @@
+Start: 1771028428 s
+This job is running on node(s): epyc-A40
+Working dir: /nfs/exk/work/clinicalcandidates/blayvas/automated_querying
+This job is querying brown_abstracts/brown_3abstract_test.csv
+Failed to find JSON in text:
+ of course, since the abstract does not discuss a screen of chemicals against a protein target, the paper_type field should be set to false for the "screening" key. The known field should also be set to false since the abstract does not discuss starting from a previously identified or reported drug, lead compound, or hit. The screens field should be set to false for all keys since the abstract does not discuss any type of screen.
+Failed to find JSON in text:
+ _
+['{\n  "paper_type": {\n    "screening": true,\n    "known": false\n  },\n  "screens": {\n    "fragment": false,\n    "undirected": false,\n    "directed": false,\n    "virtual": false,\n    "del": false\n  },\n  "title": "Discovery of N-(4-(2,4-Difluorophenoxy)-3-(6-methyl-7-oxo-6,7-dihydro-1H-pyrrolo[2,3-c]pyridin-4-yl)phenyl)ethanesulfonamide (ABBV-075/Mivebresib), a Potent and Orally Available Bromodomain and Extraterminal Domain (BET) Family Bromodomain Inhibitor."\n}']
+7.436960078775883
+End: 1771028571 s
+Runtime: 143 s

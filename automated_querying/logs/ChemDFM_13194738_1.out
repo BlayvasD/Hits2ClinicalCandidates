@@ -1,0 +1,4 @@
+Start: 1770859424
+This job is running on node(s): epyc-A40
+Working dir: /nfs/exk/work/clinicalcandidates/automated_querying
+This job is querying brown_abstracts/brown_3abstract_test.csv

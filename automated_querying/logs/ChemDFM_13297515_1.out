@@ -1,0 +1,8 @@
+Start: 1771028732 s
+This job is running on node(s): epyc-A40
+Working dir: /nfs/exk/work/clinicalcandidates/blayvas/automated_querying
+This job is querying brown_abstracts/brown_3abstract_test.csv
+['{\n  "paper_type": {\n    "screening": true,\n    "known": false\n  },\n  "screens": {\n    "fragment": false,\n    "undirected": false,\n    "directed": false,\n    "virtual": false,\n    "del": false\n  },\n  "title": "title"\n}', '{\n  "paper_type": {\n    "screening": true,\n    "known": false\n  },\n  "screens": {\n    "fragment": false,\n    "undirected": false,\n    "directed": false,\n    "virtual": false,\n    "del": false\n  },\n  "title": "Discovery of N-(4-(2,4-Difluorophenoxy)-3-(6-methyl-7-oxo-6,7-dihydro-1H-pyrrolo[2,3-c]pyridin-4-yl)phenyl)ethanesulfonamide (ABBV-075/Mivebresib), a Potent and Orally Available Bromodomain and Extraterminal Domain (BET) Family Bromodomain Inhibitor."\n}', '{\n  "paper_type": {\n    "screening": true,\n    "known": true\n  },\n  "screens": {\n    "fragment": false,\n    "undirected": true,\n    "directed": false,\n    "virtual": false,\n    "del": false\n  },\n  "title": "Optimization of a Series of Bivalent Triazolopyridazine Based Bromodomain and Extraterminal Inhibitors: The Discovery of (3R)-4-[2-[4-[1-(3-Methoxy-[1,2,4]triazolo[4,3-b]pyridazin-6-yl)-4-piperidyl]phenoxy]ethyl]-1,3-dimethyl-piperazin-2-one (AZD5153)."\n}']
+5.969732463359833
+End: 1771028905 s
+Runtime: 173 s

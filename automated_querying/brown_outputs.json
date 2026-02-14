@@ -1,0 +1,42 @@
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "title"
+}
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "Discovery of N-(4-(2,4-Difluorophenoxy)-3-(6-methyl-7-oxo-6,7-dihydro-1H-pyrrolo[2,3-c]pyridin-4-yl)phenyl)ethanesulfonamide (ABBV-075/Mivebresib), a Potent and Orally Available Bromodomain and Extraterminal Domain (BET) Family Bromodomain Inhibitor."
+}
+{
+  "paper_type": {
+    "screening": true,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "Optimization of a Series of Bivalent Triazolopyridazine Based Bromodomain and Extraterminal Inhibitors: The Discovery of (3R)-4-[2-[4-[1-(3-Methoxy-[1,2,4]triazolo[4,3-b]pyridazin-6-yl)-4-piperidyl]phenoxy]ethyl]-1,3-dimethyl-piperazin-2-one (AZD5153)."
+}

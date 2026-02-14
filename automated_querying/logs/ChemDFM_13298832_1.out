@@ -1,0 +1,6 @@
+Start: 1771029589 s
+This job is running on node(s): epyc-A40
+Working dir: /nfs/exk/work/clinicalcandidates/blayvas/automated_querying
+This job is querying brown_abstracts/brown_3abstract_test.csv
+End: 1771029606 s
+Runtime: 17 s

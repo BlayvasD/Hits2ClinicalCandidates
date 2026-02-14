@@ -1,0 +1,27 @@
+Analyze the research paper abstract included in the above paragraph(s). Determine whether it discusses an initial screen of chemicals against a protein target. Some paper abstracts may not describe a screen of chemicals versus a protein. Please return the following information in JSON format exactly as specified below.
+
+paper_type:
+- screening (boolean): true if the paper describes any sort of screen against a protein target. False if the paper does not describe a chemical screen.
+- known (boolean): True if the paper describes starting from a previously identified or reported drug, lead compound, or hit. False if the paper uses a screening technique, as defined below, in order to find the compound of interest discussed in the abstract.
+screens:
+- fragment (boolean): true if the paper describes testing fragment-sized molecules against a protein target to find ligands, using techniques such as NMR, X-ray crystallography, or biophysical assays. Virtual screening of fragments is excluded from this category. False if the paper does not describe a fragment screen.
+- Undirected (boolean): true if the paper describes testing a real-world library of molecules against a protein target to find ligands, using high-throughput plate-based biophysical assays. Screening of fragment-sized molecules is excluded from this category. False if the paper does not describe screening a real-world collection of molecules.
+- directed (boolean): false in all cases. This field is a temporary placeholder.
+- virtual (boolean): true if the paper describes using virtual screening techniques to identify ligands binding a protein target, using techniques such as structure-based docking or ligand-based molecular similarity. False if the paper does not describe the use of virtual screening methods.
+- del (boolean): true if the paper describes testing a DNA-encoded library of molecules (sometimes referred to as a DEL) against a protein target to find ligands. False if the paper does not describe a DEL screen.
+
+{
+  "paper_type": {
+    "screening": [true/false]
+    "known": [true/false]
+  },
+  "screens": {
+    "fragment": [true/false],
+    "undirected": [true/false],
+    "directed": [true/false],
+    "virtual": [true/false],
+    "del": [true/false]
+  }
+}
+
+Your response as a JSON-formatted string is:

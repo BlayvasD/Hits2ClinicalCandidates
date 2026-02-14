@@ -1,0 +1,33 @@
+Analyze the paper text above. Determine whether it discusses a high-throughput screening hit, a lead compound, and/or a clinical candidate. If multiple compounds of one category are mentioned, focus on the most detailed optimization path and only consider compounds from that path. For each of the three categories (hit, lead, candidate), provide the following information in JSON format exactly as it is stated in the paper.
+
+Categories:
+- hit: a compound identified in early drug discovery screens (like HTS) that shows initial, confirmed biological activity against a target, serving as a starting point for optimization into a potential drug lead. 
+- lead: a compound showing desirable biological activity against a disease target, serving as the starting point for lead optimization to develop a safe, potent drug. 
+- candidate: a highly optimized compound selected to enter human clinical trials after successfully passing rigorous preclinical safety, efficacy, and property (ADME/Tox) testing.
+Fields:
+- mentioned (boolean): true if the paper text contains a compound that fits the definition of hit, lead, or candidate; false otherwise.
+- compound_number (string): The specific compound number or identifier assigned to the hit, lead, or candidate exactly as it appears in the paper text, including the word 'Compound' if present. If not mentioned, return null. e.g., 'Compound 2', '1d', '3f', etc.
+- iupac_name (string): The exact IUPAC name of the hit, lead, or candidate compound as stated in the paper text. If the compound or its IUPAC is not explicitly stated, return null. e.g. null, '(5R)-5-[(1S)-1,2-dihydroxyethyl]-3,4-dihydroxy-2(5H)-furanone', etc.
+- visual_element (string): The visual element in which the hit, lead, or candidate compound is explicitly shown or described. If no explicit reference to a visual element is given for the compound, return null. e.g. null, 'Figure 13', 'Table 2', 'Scheme 1', etc.
+
+
+{
+  "hit": {
+    "mentioned": true,
+    "compound_number": "Compound 15",
+    "iupac_name": null,
+    "visual_element": "Scheme 1"
+  },
+  "lead": {
+    "mentioned": false,
+    "compound_number": null,
+    "iupac_name": null,
+    "visual_element": null
+  },
+  "candidate": {
+    "mentioned": true,
+    "compound_number": "Compound 32",
+    "iupac_name": null,
+    "visual_element": "Table 2"
+  }
+}

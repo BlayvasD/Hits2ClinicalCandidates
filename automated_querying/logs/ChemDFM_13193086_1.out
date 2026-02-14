@@ -1,0 +1,134 @@
+Start: 1770859361
+This job is running on node(s): epyc-A40
+Working dir: /nfs/exk/work/clinicalcandidates/automated_querying
+This job is querying brown_abstracts/brown_3abstract_test.csv
+abstract
+Analyze the research paper abstract included in the above paragraph(s). Determine whether it discusses an initial screen of chemicals against a protein target. Some paper abstracts may not describe a screen of chemicals versus a protein. Please return the following information in JSON format exactly as specified below.
+
+paper_type:
+- screening (boolean): true if the paper describes any sort of screen against a protein target. False if the paper does not describe a chemical screen.
+- known (boolean): True if the paper describes starting from a previously identified or reported drug, lead compound, or hit. False if the paper uses a screening technique, as defined below, in order to find the compound of interest discussed in the abstract.
+screens:
+- fragment (boolean): true if the paper describes testing fragment-sized molecules against a protein target to find ligands, using techniques such as NMR, X-ray crystallography, or biophysical assays. Virtual screening of fragments is excluded from this category. False if the paper does not describe a fragment screen.
+- Undirected (boolean): true if the paper describes testing a real-world library of molecules against a protein target to find ligands, using high-throughput plate-based biophysical assays. Screening of fragment-sized molecules is excluded from this category. False if the paper does not describe screening a real-world collection of molecules.
+- directed (boolean): false in all cases. This field is a temporary placeholder.
+- virtual (boolean): true if the paper describes using virtual screening techniques to identify ligands binding a protein target, using techniques such as structure-based docking or ligand-based molecular similarity. False if the paper does not describe the use of virtual screening methods.
+- del (boolean): true if the paper describes testing a DNA-encoded library of molecules (sometimes referred to as a DEL) against a protein target to find ligands. False if the paper does not describe a DEL screen.
+
+{
+  "paper_type": {
+    "screening": [true/false]
+    "known": [true/false]
+  },
+  "screens": {
+    "fragment": [true/false],
+    "undirected": [true/false],
+    "directed": [true/false],
+    "virtual": [true/false],
+    "del": [true/false]
+  }
+}
+
+Your response as a JSON-formatted string is:
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  }
+}
+
+The development of bromodomain and extraterminal domain (BET) bromodomain inhibitors and their examination in clinical studies, particularly in oncology settings, has garnered substantial recent interest. An effort to generate novel BET bromodomain inhibitors with excellent potency and drug metabolism and pharmacokinetics (DMPK) properties was initiated based upon elaboration of a simple pyridone core. Efforts to develop a bidentate interaction with a critical asparagine residue resulted in the incorporation of a pyrrolopyridone core, which improved potency by 9-19-fold. Additional structure-activity relationship (SAR) efforts aimed both at increasing potency and improving pharmacokinetic properties led to the discovery of the clinical candidate 63 (ABBV-075/mivebresib), which demonstrates excellent potency in biochemical and cellular assays, advantageous exposures and half-life both in animal models and in humans, and in vivo efficacy in mouse models of cancer progression and inflammation.
+Analyze the research paper abstract included in the above paragraph(s). Determine whether it discusses an initial screen of chemicals against a protein target. Some paper abstracts may not describe a screen of chemicals versus a protein. Please return the following information in JSON format exactly as specified below.
+
+paper_type:
+- screening (boolean): true if the paper describes any sort of screen against a protein target. False if the paper does not describe a chemical screen.
+- known (boolean): True if the paper describes starting from a previously identified or reported drug, lead compound, or hit. False if the paper uses a screening technique, as defined below, in order to find the compound of interest discussed in the abstract.
+screens:
+- fragment (boolean): true if the paper describes testing fragment-sized molecules against a protein target to find ligands, using techniques such as NMR, X-ray crystallography, or biophysical assays. Virtual screening of fragments is excluded from this category. False if the paper does not describe a fragment screen.
+- Undirected (boolean): true if the paper describes testing a real-world library of molecules against a protein target to find ligands, using high-throughput plate-based biophysical assays. Screening of fragment-sized molecules is excluded from this category. False if the paper does not describe screening a real-world collection of molecules.
+- directed (boolean): false in all cases. This field is a temporary placeholder.
+- virtual (boolean): true if the paper describes using virtual screening techniques to identify ligands binding a protein target, using techniques such as structure-based docking or ligand-based molecular similarity. False if the paper does not describe the use of virtual screening methods.
+- del (boolean): true if the paper describes testing a DNA-encoded library of molecules (sometimes referred to as a DEL) against a protein target to find ligands. False if the paper does not describe a DEL screen.
+
+{
+  "paper_type": {
+    "screening": [true/false]
+    "known": [true/false]
+  },
+  "screens": {
+    "fragment": [true/false],
+    "undirected": [true/false],
+    "directed": [true/false],
+    "virtual": [true/false],
+    "del": [true/false]
+  }
+}
+
+Your response as a JSON-formatted string is:
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  }
+}
+
+Here we report the discovery and optimization of a series of bivalent bromodomain and extraterminal inhibitors. Starting with the observation of BRD4 activity of compounds from a previous program, the compounds were optimized for BRD4 potency and physical properties. The optimized compound from this campaign exhibited excellent pharmacokinetic profile and exhibited high potency in vitro and in vivo effecting c-Myc downregulation and tumor growth inhibition in xenograft studies. This compound was selected as the development candidate, AZD5153. The series showed enhanced potency as a result of bivalent binding and a clear correlation between BRD4 activity and cellular potency.
+Analyze the research paper abstract included in the above paragraph(s). Determine whether it discusses an initial screen of chemicals against a protein target. Some paper abstracts may not describe a screen of chemicals versus a protein. Please return the following information in JSON format exactly as specified below.
+
+paper_type:
+- screening (boolean): true if the paper describes any sort of screen against a protein target. False if the paper does not describe a chemical screen.
+- known (boolean): True if the paper describes starting from a previously identified or reported drug, lead compound, or hit. False if the paper uses a screening technique, as defined below, in order to find the compound of interest discussed in the abstract.
+screens:
+- fragment (boolean): true if the paper describes testing fragment-sized molecules against a protein target to find ligands, using techniques such as NMR, X-ray crystallography, or biophysical assays. Virtual screening of fragments is excluded from this category. False if the paper does not describe a fragment screen.
+- Undirected (boolean): true if the paper describes testing a real-world library of molecules against a protein target to find ligands, using high-throughput plate-based biophysical assays. Screening of fragment-sized molecules is excluded from this category. False if the paper does not describe screening a real-world collection of molecules.
+- directed (boolean): false in all cases. This field is a temporary placeholder.
+- virtual (boolean): true if the paper describes using virtual screening techniques to identify ligands binding a protein target, using techniques such as structure-based docking or ligand-based molecular similarity. False if the paper does not describe the use of virtual screening methods.
+- del (boolean): true if the paper describes testing a DNA-encoded library of molecules (sometimes referred to as a DEL) against a protein target to find ligands. False if the paper does not describe a DEL screen.
+
+{
+  "paper_type": {
+    "screening": [true/false]
+    "known": [true/false]
+  },
+  "screens": {
+    "fragment": [true/false],
+    "undirected": [true/false],
+    "directed": [true/false],
+    "virtual": [true/false],
+    "del": [true/false]
+  }
+}
+
+Your response as a JSON-formatted string is:
+{
+  "paper_type": {
+    "screening": true,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  }
+}
+
+['{\n  "paper_type": {\n    "screening": true,\n    "known": false\n  },\n  "screens": {\n    "fragment": false,\n    "undirected": false,\n    "directed": false,\n    "virtual": false,\n    "del": false\n  },\n  "title": "title"\n}', '{\n  "paper_type": {\n    "screening": true,\n    "known": false\n  },\n  "screens": {\n    "fragment": false,\n    "undirected": true,\n    "directed": false,\n    "virtual": false,\n    "del": false\n  },\n  "title": "Discovery of N-(4-(2,4-Difluorophenoxy)-3-(6-methyl-7-oxo-6,7-dihydro-1H-pyrrolo[2,3-c]pyridin-4-yl)phenyl)ethanesulfonamide (ABBV-075/Mivebresib), a Potent and Orally Available Bromodomain and Extraterminal Domain (BET) Family Bromodomain Inhibitor."\n}', '{\n  "paper_type": {\n    "screening": true,\n    "known": true\n  },\n  "screens": {\n    "fragment": false,\n    "undirected": true,\n    "directed": false,\n    "virtual": false,\n    "del": false\n  },\n  "title": "Optimization of a Series of Bivalent Triazolopyridazine Based Bromodomain and Extraterminal Inhibitors: The Discovery of (3R)-4-[2-[4-[1-(3-Methoxy-[1,2,4]triazolo[4,3-b]pyridazin-6-yl)-4-piperidyl]phenoxy]ethyl]-1,3-dimethyl-piperazin-2-one (AZD5153)."\n}']
+8.26727220788598
+End: 1770859436
+Runtime: 75
