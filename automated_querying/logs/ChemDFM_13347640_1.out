@@ -1,0 +1,7 @@
+Executing ChemDFM streamer script
+Start: 1771108044 s
+This job is running on node(s): epyc-A40
+Working dir: /nfs/exk/work/clinicalcandidates/blayvas/clinicalcandidates/automated_querying
+This job is querying brown_abstracts/brown_allExamples_w_abstracts.csv
+End: 1771108063 s
+Runtime: 19 s

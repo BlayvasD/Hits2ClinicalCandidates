@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=ChemDFM_batch            # Job name
+#SBATCH --job-name=ChemDFM_streamer         # Job name
 #SBATCH --output=logs/ChemDFM_%A_%a.out     # Standard output file (jobID_arrayID)
 #SBATCH --error=logs/ChemDFM_%A_%a.err      # Standard error file (jobID_arrayID)
 #SBATCH --array=1-1%1                       # Array job range
@@ -12,14 +12,14 @@
 ######## Only edit the paths in the block below. ########
 
 working_dir=$(pwd)
-script='llm_batch_execute.py'
+script='llm_batch_execute_streamer.py'
 promptfile='prompts/analyzeAbstract.txt'
 abstractsfile='brown_abstracts/brown_allExamples_w_abstracts.csv'
 
 ######## No need to edit anything below this line. ########
 
 start_time=$(date "+%s")
-echo "Executing ChemDFM batch script"
+echo "Executing ChemDFM streamer script"
 echo "Start: $start_time s"
 echo "This job is running on node(s): $SLURM_NODELIST"
 source /nfs/home/zdingman/environments/LLM_analysis/bin/activate || exit 1

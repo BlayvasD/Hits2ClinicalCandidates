@@ -87,71 +87,39 @@ def isolate_json(text: str, title) -> str:
     raise ValueError("No valid JSON object found in text.")
 
 
-def query(prompt, titles, texts, tokenizer, model, batch_size=8):
-    """Run the prompt against a list of inputs in batches and return a list of
-    JSON strings.
-
-    We concatenate each abstract with the prompt, then perform a single
-    `model.generate` pass for each batch.  Streaming is dropped in favour of
-    the simpler batch API, which allows us to submit many examples at once and
-    get much higher throughput when the CUDA device is the bottleneck.
-
-    ``batch_size`` can be tuned depending on your GPU memory.  If any
-    response fails JSON extraction we skip it and continue.
-    """
-
-    results = []
-    # iterate over the data in fixed-size batches
-    for i in range(0, len(texts), batch_size):
-        batch_titles = titles[i : i + batch_size]
-        batch_texts = texts[i : i + batch_size]
-
-        # build the list of input strings and tokenize as a batch
-        batch_inputs = [t + "\n" + prompt for t in batch_texts]
-        delay = 5
-        while True:
-            try:
-                inputs = tokenizer(
-                    batch_inputs,
-                    return_tensors="pt",
-                    padding=True,
-                    truncation=True,
-                ).to("cuda")
-                break  # success, exit the retry loop
-            except torch.AcceleratorError:
-                print("CUDA out of memory during tokenization. Retrying after a short delay...")
-                torch.cuda.empty_cache()
-                sleep(delay)  # wait before retrying
-                delay = min(delay * 2, 60)  # exponential backoff with a max delay
+def query(prompt, title, text, tokenizer, model):
+    input_text = text + '\n' + prompt
+    delay = 5
+    while True:
         try:
-            inputs = tokenizer(
-                batch_inputs,
-                return_tensors="pt",
-                padding=True,
-                truncation=True,
-            ).to("cuda")
+            inputs = tokenizer(input_text, return_tensors="pt").to("cuda")
+            break  # success, exit the retry loop
         except torch.AcceleratorError:
-            print("Error tokenizing batch. Skipping this batch.")
-            continue
+            print("CUDA out of memory during tokenization. Retrying after a short delay...")
+            torch.cuda.empty_cache()
+            sleep(delay)  # wait before retrying
+            delay = min(delay * 2, 60)  # exponential backoff with a max delay
 
-        # generate all outputs at once (no streamer)
-        outputs = model.generate(
+    streamer = TextIteratorStreamer(tokenizer, skip_special_tokens=True,)
+    thread = threading.Thread(
+        target=lambda: model.generate(
             **inputs,
             max_new_tokens=512,
             do_sample=True,
             temperature=0.2,
+            streamer=streamer
         )
-
-        decoded = tokenizer.batch_decode(outputs, skip_special_tokens=True)
-        # strip the corresponding prompt prefix and isolate JSON
-        for inp, dec, title in zip(batch_inputs, decoded, batch_titles):
-            response_only = dec[len(inp) :]
-            try:
-                results.append(isolate_json(response_only, title))
-            except ValueError:
-                # log inside isolate_json already, just skip
-                continue
-    return results
+    )
+    thread.start()
+    output_text = []
+    for chunk in streamer:
+        print(chunk, end="", flush=True)
+        output_text.append(chunk)
+    print('\n')
+    
+    response_only = "".join(output_text)[len(input_text):]
+    jsonFile = isolate_json(response_only, title)
+    return jsonFile
 
 def main():
     prompt_path = argv[1]
@@ -161,10 +129,13 @@ def main():
     tokenizer,model = load_tokenizer_and_model()
 
     start = perf_counter()
-    # now run the entire dataset in batches rather than one prompt at a time
-    all_json = query(prompt, titles, abstracts, tokenizer, model)
+    all_json = []
+    for t, a in zip(titles,abstracts):
+        try:
+            all_json.append(query(prompt, t, a, tokenizer, model))
+        except ValueError:
+            continue
 
-    # the returned list already contains only successfully parsed items
     print(all_json)
     end = perf_counter()
     print(f"Performance counter: {end - start:.6f} seconds")
