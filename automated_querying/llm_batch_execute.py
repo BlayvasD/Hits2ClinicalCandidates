@@ -16,6 +16,8 @@ outputs:
 1. brown_outputs.json: A file containing the extracted JSON objects from the model's responses, one per line.
 """
 
+print("Starting LLM batch execution...")
+
 from sys import argv
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM, GenerationConfig, TextIteratorStreamer
@@ -24,6 +26,8 @@ import csv
 import json
 import re
 from time import perf_counter, sleep
+
+print("Imports completed.")
 
 
 def load_tokenizer_and_model():
@@ -56,6 +60,7 @@ def load_abstract_batch(infile):
     abstracts = []
     with open(infile, 'r') as f:
         reader = csv.reader(f)
+        reader.__next__()  # skip header
         for ll in reader:
             titles.append(ll[5])
             abstracts.append(ll[6])
@@ -154,8 +159,7 @@ def query(prompt, titles, texts, tokenizer, model, batch_size=8):
     return results
 
 def main():
-    print("Starting LLM batch execution...")
-
+    print("Functions defined, initiating main execution.")
     prompt_path = argv[1]
     abstracts_path = argv[2]  # Titles must be csv col 5, abstracts col 6. Not updating for now.
     prompt = load_prompt(prompt_path)
@@ -173,8 +177,9 @@ def main():
 
     with open('brown_outputs_corrected.json','w') as f:
         f.write('[')
-        for j in all_json:
+        for j in all_json[:-1]:
             f.write(j + ',\n')
-        f.write(']')
+        f.write(all_json[-1] + '\n]')
 
-    main()
+
+main()
