@@ -154,6 +154,8 @@ def query(prompt, titles, texts, tokenizer, model, batch_size=8):
     return results
 
 def main():
+    print("Starting LLM batch execution...")
+
     prompt_path = argv[1]
     abstracts_path = argv[2]  # Titles must be csv col 5, abstracts col 6. Not updating for now.
     prompt = load_prompt(prompt_path)
@@ -169,8 +171,10 @@ def main():
     end = perf_counter()
     print(f"Performance counter: {end - start:.6f} seconds")
 
-    with open('brown_outputs.json','w') as f:
+    with open('brown_outputs_corrected.json','w') as f:
+        f.write('[')
         for j in all_json:
-            f.write(j + '\n')
+            f.write(j + ',\n')
+        f.write(']')
 
-main()
+    main()
