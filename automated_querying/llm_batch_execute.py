@@ -175,7 +175,7 @@ def main():
     end = perf_counter()
     print(f"Performance counter: {end - start:.6f} seconds")
 
-    with open('brown_outputs_corrected.json','w') as f:
+    with open('brown_outputs.json','w') as f:
         f.write('[')
         for j in all_json[:-1]:
             f.write(j + ',\n')

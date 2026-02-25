@@ -12,15 +12,15 @@ screens:
 
 {
   "paper_type": {
-    "screening": [true/false]
-    "known": [true/false]
+    "screening": true/false
+    "known": true/false
   },
   "screens": {
-    "fragment": [true/false],
-    "undirected": [true/false],
-    "directed": [true/false],
-    "virtual": [true/false],
-    "del": [true/false]
+    "fragment": true/false,
+    "undirected": true/false,
+    "directed": true/false,
+    "virtual": true/false,
+    "del": true/false
   }
 }
 
