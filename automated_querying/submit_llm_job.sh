@@ -14,7 +14,7 @@
 working_dir=$(pwd)
 script='llm_batch_execute.py'
 promptfile='prompts/analyzeAbstract.txt'
-abstractsfile='brown_abstracts/brown_allExamples_w_abstracts.csv'
+abstractsfile='brown_abstracts/abstract_lookup_cache.csv'
 
 ######## No need to edit anything below this line. ########
 

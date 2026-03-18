@@ -62,8 +62,8 @@ def load_abstract_batch(infile):
         reader = csv.reader(f)
         reader.__next__()  # skip header
         for ll in reader:
-            titles.append(ll[5])
-            abstracts.append(ll[6])
+            titles.append(ll[0])
+            abstracts.append(ll[2])
     return titles,abstracts
 
 def isolate_json(text: str, title) -> str:
@@ -175,7 +175,7 @@ def main():
     end = perf_counter()
     print(f"Performance counter: {end - start:.6f} seconds")
 
-    with open('brown_outputs.json','w') as f:
+    with open('abstract_predictions/negative_outputs.json','w') as f:
         f.write('[')
         for j in all_json[:-1]:
             f.write(j + ',\n')

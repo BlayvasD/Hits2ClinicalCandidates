@@ -1,0 +1,5411 @@
+[{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1002/cmdc.201300343"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmc.2015.06.016"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmc.2017.03.008"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": true,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmc.2018.05.010"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmc.2019.03.009"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmc.2019.06.044"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmc.2020.115795"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmc.2020.115811"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmc.2020.115819"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmc.2021.116362"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmc.2021.116364"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmc.2021.116523"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": true,
+    "del": false
+  },
+  "title": "10.1016/j.bmc.2021.116596"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmc.2022.116614"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": true,
+    "del": false
+  },
+  "title": "10.1016/j.bmc.2022.116686"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmc.2022.116907"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmc.2022.116995"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmc.2022.117033"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmc.2022.117043"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmc.2022.117152"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "virtual": true,
+    "del": false
+  },
+  "title": "10.1016/j.bmc.2023.117338"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmc.2023.117385"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmc.2023.117552"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmc.2024.117611"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmc.2024.117659"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmc.2024.117796"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2007.07.055"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2009.01.066"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2011.09.055"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": true,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2012.10.102"
+},
+{
+  "paper_type": {
+    "screening": false,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2013.05.045"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2013.09.001"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2014.04.068"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2015.06.056"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2015.07.093"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2015.07.102"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2015.11.009"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2016.02.067"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2016.03.101"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2016.06.045"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2016.06.048"
+},
+{
+  "compound1": "虚拟筛选",
+  "compound2": "虚拟筛选",
+  "compound3": "无定向筛选",
+  "title": "10.1016/j.bmcl.2016.08.072"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2016.10.074"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2017.03.043"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2017.04.040"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2017.07.079"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2017.09.042"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2018.04.020"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2018.04.053"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2018.12.049"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2019.03.018"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2019.06.042"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": true,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2019.126624"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2019.126658"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2020.127108"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2020.127159"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2020.127327"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2020.127551"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2020.127667"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2020.127753"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2021.127862"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": true,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2021.128067"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2021.128253"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2021.128409"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2022.128680"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2022.128729"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2023.129174"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2023.129214"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2023.129381"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.bmcl.2024.129643"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2016.11.052"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2017.06.040"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2017.11.088"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2018.10.061"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2018.11.010"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": true,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2018.11.018"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2019.01.024"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2019.01.084"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2019.02.008"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2019.04.053"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2020.112426"
+},
+{
+  "paper_type": {
+    "screening": false,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2020.112527"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2020.112910"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2020.112955"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2020.112995"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2020.113137"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2021.113157"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": true,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2021.113265"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2021.113267"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2021.113335"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2021.113441"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": true
+  },
+  "title": "10.1016/j.ejmech.2021.113484"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2021.113622"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2021.113654"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2021.113683"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2021.113698"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2021.113814"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2021.113862"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2021.113863"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2021.113951"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2021.113953"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2021.113966"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2021.113967"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2021.114039"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2022.114109"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2022.114307"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2022.114345"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2022.114368"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2022.114374"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": true,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2022.114423"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2022.114519"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2022.114524"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2022.114533"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2022.114551"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2022.114856"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": true,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2022.114857"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2022.114900"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": true,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2022.114942"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2023.115113"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": true,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2023.115130"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2023.115182"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2023.115291"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2023.115292"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2023.115300"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2023.115320"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2023.115503"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2023.115618"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2023.115657"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2023.115667"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2023.115709"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2023.115719"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": true,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2023.115720"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2023.115762"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2023.115831"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2023.115840"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2023.115848"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2023.115865"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2023.115982"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2023.116029"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2023.116076"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2023.116106"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2023.116109"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": true,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2023.116114"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2024.116128"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2024.116263"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2024.116269"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2024.116304"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2024.116364"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2024.116386"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2024.116442"
+},
+{
+  "title": "10.1016/j.ejmech.2024.116470"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2024.116535"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2024.116590"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2024.116602"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1016/j.ejmech.2024.116671"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.0c00259"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.0c00456"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.0c00506"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.0c00507"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.0c00533"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.0c00606"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.0c00626"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.0c00628"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": true
+  },
+  "title": "10.1021/acs.jmedchem.0c00688"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.0c00776"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.0c00931"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.0c01033"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.0c01093"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.0c01140"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.0c01346"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.0c01858"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.0c01929"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.1c00071"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.1c00104"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.1c00359"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.1c00373"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.1c00616"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.1c00679"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.1c00712"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.1c00790"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.1c00926"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.1c01012"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.1c01214"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.1c01305"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.1c01776"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.2c00047"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.2c00135"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.2c00168"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.2c00368"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.2c00636"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.2c00677"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.2c00697"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.2c00758"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.2c00922"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.2c01070"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.2c01146"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.2c01361"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.2c01422"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.2c01478"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.2c01518"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.2c01716"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.2c01864"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.2c02067"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.2c02130"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.3c00277"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.3c00576"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.3c00750"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.3c00821"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.3c01152"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": true,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.3c01165"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.3c01837"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.3c02469"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.4c00107"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": true,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.4c00202"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.4c00361"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.4c00899"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.4c01267"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.4c01360"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.5b01161"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.5b01372"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.5b01483"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.5b01485"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.5b01498"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.5b01528"
+},
+{
+  "paper_type": {
+    "screening": false,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.5b01599"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.5b01647"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.5b01654"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.5b01716"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.5b01751"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.5b01882"
+},
+{
+  "screening": true,
+  "known": false,
+  "title": "10.1021/acs.jmedchem.5b01985"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.6b00055"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.6b00064"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.6b00280"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.6b00306"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.6b00307"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.6b00459"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.6b00485"
+},
+{
+  "paper_type": {
+    "screening": false,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.6b00487"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.6b00515"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.6b00821"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": true,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.6b00850"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.6b00866"
+},
+{
+  "paper_type": {
+    "screening": false,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.6b00892"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.6b00939"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.6b01088"
+},
+{
+  "paper_type": {
+    "screening": false,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.6b01127"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": true,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.6b01156"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": true,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.6b01242"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.6b01270"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.6b01310"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.6b01315"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.6b01586"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": true,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.6b01634"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.6b01662"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.6b01665"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": true
+  },
+  "title": "10.1021/acs.jmedchem.6b01751"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.6b01761"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.6b01889"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.6b01894"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": true,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.7b00017"
+},
+{
+  "paper_type": {
+    "screening": false,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.7b00055"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.7b00162"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.7b00173"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.7b00179"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.7b00211"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.7b00360"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.7b00408"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.7b00410"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.7b00598"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.7b00631"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.7b00647"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.7b00709"
+},
+{
+  "paper_type": {
+    "screening": false,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.7b00734"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.7b00746"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.7b00785"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.7b00807"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.7b00907"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.7b00930"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.7b00974"
+},
+{
+  "paper_type": {
+    "screening": true
+  },
+  "known": {
+    "known": false
+  },
+  "title": "10.1021/acs.jmedchem.7b01236"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.7b01279"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.7b01310"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.7b01337"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.7b01375"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.7b01641"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.7b01647"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.8b00173"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.8b00246"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.8b00633"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.8b00741"
+},
+{
+  "paper_type": {
+    "screening": false,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.8b00759"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.8b00807"
+},
+{
+  "paper_type": {
+    "screening": false,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.8b01092"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.8b01262"
+},
+{
+  "paper_type": {
+    "screening": false,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.8b01308"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.8b01709"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.8b01732"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.8b01823"
+},
+{
+  "paper_type": {
+    "screening": false,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.8b01906"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": true,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.9b00030"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.9b00444"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.9b00525"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": true,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.9b00761"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.9b00775"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.9b00972"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.9b01549"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.9b01621"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.9b01701"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.9b01784"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.9b02075"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jmedchem.9b02149"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jnatprod.0c00968"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jnatprod.0c01324"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jnatprod.2c00015"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jnatprod.2c00550"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jnatprod.2c00736"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": true,
+    "del": false
+  },
+  "title": "10.1021/acs.jnatprod.2c00843"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jnatprod.3c00159"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jnatprod.3c00249"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": true,
+    "del": false
+  },
+  "title": "10.1021/acs.jnatprod.3c00875"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jnatprod.4c00342"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acs.jnatprod.9b00659"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acsmedchemlett.0c00004"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acsmedchemlett.0c00294"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acsmedchemlett.0c00316"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acsmedchemlett.0c00485"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": true,
+    "del": false
+  },
+  "title": "10.1021/acsmedchemlett.0c00521"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acsmedchemlett.1c00031"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acsmedchemlett.1c00481"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acsmedchemlett.1c00555"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acsmedchemlett.2c00514"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acsmedchemlett.3c00242"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acsmedchemlett.3c00373"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acsmedchemlett.4c00036"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acsmedchemlett.6b00117"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": true,
+    "del": false
+  },
+  "title": "10.1021/acsmedchemlett.7b00349"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acsmedchemlett.8b00373"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acsmedchemlett.9b00108"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/acsmedchemlett.9b00219"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/jm051122a"
+},
+{
+  "paper_type": {
+    "screening": false,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/jm101142k"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/jm101623p"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/jm200768h"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/jm200990c"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/jm400004u"
+},
+{
+  "paper_type": {
+    "screening": false,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/jm400325j"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/jm4003632"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/jm501541j"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/jm5018237"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/jm970367n"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/jm970495b"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1021/ml400138p"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1038/ncomms14768"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1038/s41467-019-14083-4"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1038/s41467-023-40064-9"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1038/s41586-020-2286-9"
+},
+{
+  "paper_type": {
+    "screening": false,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1039/c6md00190d"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1039/c7md00109f"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1039/c8md00198g"
+},
+{
+  "paper_type": {
+    "screening": false,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1039/d2md00081d"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1039/d2md00216g"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1039/d3md00055a"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": true,
+    "del": false
+  },
+  "title": "10.1039/d3md00056g"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1039/d3md00117b"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1039/d3md00751k"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1039/d4md00089g"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1101/2020.03.20.999730"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1101/2020.04.03.023846"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1101/2020.04.16.044016"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1101/2020.04.21.054387"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1126/science.1250127"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1126/science.aan4368"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1158/1078-0432.ccr-16-0569"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1158/1538-7445.am2013-ddt02-01"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1158/1538-7445.am2014-1734"
+},
+{
+  "paper_type": {
+    "screening": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1158/1538-7445.am2015-3232"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.1186/s13148-021-01037-1"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": true
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.6019/chembl4495565"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.6019/chembl4651402"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.6019/chembl4808148"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.6019/chembl5212743"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.6019/chembl5446079"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.6019/chembl5465560"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.6019/chembl5608141"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.6019/chembl5665443"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.6019/chembl5674860"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": false,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.6019/chembl5724696"
+},
+{
+  "paper_type": {
+    "screening": true,
+    "known": false
+  },
+  "screens": {
+    "fragment": false,
+    "undirected": true,
+    "directed": false,
+    "virtual": false,
+    "del": false
+  },
+  "title": "10.6019/eos300108"
+}
+]

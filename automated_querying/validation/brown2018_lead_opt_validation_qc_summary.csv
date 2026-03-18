@@ -1,0 +1,2 @@
+total_rows,positive_rows,negative_rows,unique_molecules,molecules_with_positive,synthetic_positive_rows,from_local_publications_rows,from_chembl_query_rows
+599,94,505,66,66,32,485,567

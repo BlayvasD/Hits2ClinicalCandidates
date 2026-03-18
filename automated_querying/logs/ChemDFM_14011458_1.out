@@ -1,0 +1,8 @@
+Executing ChemDFM batch script
+Start: 1772739353 s
+This job is running on node(s): epyc-A40
+Working dir: /nfs/exk/work/clinicalcandidates/blayvas/clinicalcandidates/automated_querying
+This job is querying brown_abstracts/abstract_lookup_cache.csv
+Starting LLM batch execution...
+Imports completed.
+Functions defined, initiating main execution.
